@@ -6,15 +6,15 @@
 
 # TIGERMONKEYFISH
 
-**PC Engine / TurboGrafx-16 clean-room HuC6280 assembly, CD-ROM² / Arcade Card tooling, and 60fps hardware research.**
+**PC Engine / TurboGrafx-16 original HuC6280 assembly, CD-ROM² / Arcade Card tooling, and 60fps hardware research.**
 
-All tools and patches are built as 100% client-side clean-room synthesis pipelines: HuC6280 assembly, ECMA-130 Mode 1 CD-ROM² EDC/RSPC sector encoding, and composite tile store generators run locally against the user's own original disc track or ROM, with verified behavior on real **TurboGrafx-16**, **PC Engine Duo-RX**, **Arcade Card**, and **Turbo EverDrive Pro** hardware. Zero copyrighted or derived third-party game bytes or assets are hosted or distributed.
+All tools and patches are built as 100% client-side, zero-game-data synthesis pipelines: HuC6280 assembly, ECMA-130 Mode 1 CD-ROM² EDC/RSPC sector encoding, and composite tile store generators run locally against the user's own original disc track or ROM, with verified behavior on real **TurboGrafx-16**, **PC Engine Duo-RX**, **Arcade Card**, and **Turbo EverDrive Pro** hardware. Zero copyrighted or derived third-party game bytes or assets are hosted or distributed.
 
 [Web Builders (tigermonkeyfish.com)](https://tigermonkeyfish.com) · [YouTube (@TigerMonkeyFish)](https://www.youtube.com/@TigerMonkeyFish) · [X (@TigerMonkeyFish)](https://x.com/TigerMonkeyFish) · [Support on Ko-fi](https://ko-fi.com/tigermonkeyfish)
 
 ---
 
-## Clean-Room Projects
+## Projects
 
 | Project | Hardware / Latest | Web Builder | Video Showcase | Source |
 | :--- | :--- | :--- | :--- | :--- |
