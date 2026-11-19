@@ -10,7 +10,7 @@
 
 All tools and patches are built as 100% client-side clean-room synthesis pipelines: HuC6280 assembly, ECMA-130 Mode 1 CD-ROM² EDC/RSPC sector encoding, and composite tile store generators run locally against the user's own original disc track or ROM, with verified behavior on real **TurboGrafx-16**, **PC Engine Duo-RX**, **Arcade Card**, and **Turbo EverDrive Pro** hardware. Zero copyrighted or derived third-party game bytes or assets are hosted or distributed.
 
-[Web Builders (tigermonkeyfish.com)](https://tigermonkeyfish.com) · [YouTube (@TigerMonkeyFish)](https://www.youtube.com/@TigerMonkeyFish) · [X (@TigerMonkeyFish)](https://x.com/TigerMonkeyFish) · [Support Hardware Bench on Ko-fi](https://ko-fi.com/tigermonkeyfish)
+[Web Builders (tigermonkeyfish.com)](https://tigermonkeyfish.com) · [YouTube (@TigerMonkeyFish)](https://www.youtube.com/@TigerMonkeyFish) · [X (@TigerMonkeyFish)](https://x.com/TigerMonkeyFish) · [Support on Ko-fi](https://ko-fi.com/tigermonkeyfish)
 
 ---
 
@@ -23,4 +23,4 @@ All tools and patches are built as 100% client-side clean-room synthesis pipelin
 
 ---
 
-If you enjoy free 60fps PC Engine enhancement tools and hardware preservation notes, you can help support test-bench optical media, capture hardware, and cables on [Ko-fi](https://ko-fi.com/tigermonkeyfish).
+If you enjoy free 60fps PC Engine enhancement tools and hardware preservation notes, you can help offset AI, compute, and R&D costs on [Ko-fi](https://ko-fi.com/tigermonkeyfish).
